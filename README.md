@@ -15,10 +15,12 @@ In this project, We have trained the following models based on Davidson and TSA 
 ## Documentation :
 
 [Report](https://github.com/kasivisu4/hate-speech-detection/blob/main/HateSpeechDetection_Group9Report.pdf)
+[GitHub](https://github.com/kasivisu4/hate-speech-detection)
+
 
 
 ## Contributors :
 Akhila Sulgante
-Kasi Viswanath ![![](https://github.com/remarkablemark.png?size=50)](https://github.com/remarkablemark)
+Kasi Viswanath
 Misha Mody
 Poulomi Das
