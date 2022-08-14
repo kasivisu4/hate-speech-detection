@@ -14,7 +14,8 @@ In this project, We have trained the following models based on Davidson and TSA 
 
 ## Documentation :
 
-[Report](https://github.com/kasivisu4/hate-speech-detection/blob/main/HateSpeechDetection_Group9Report.pdf)
+[Final Report](https://github.com/kasivisu4/hate-speech-detection/blob/main/HateSpeechDetection_Group9Report.pdf)
+<br>
 [GitHub](https://github.com/kasivisu4/hate-speech-detection)
 
 
