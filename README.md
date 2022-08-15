@@ -1,6 +1,6 @@
 # Hate Speech Detection
 
-## Demo :
+## XGBoost visualization demo :
 
 https://observablehq.com/@kasivisu4/hsd-visualization
 
