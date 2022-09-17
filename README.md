@@ -21,8 +21,8 @@ In this project, We have trained the following models based on Davidson and TSA 
 ## Contributors :
 ##### [Akhila Sulgante](https://github.com/Akhilasulgante)
 ##### [Kasi Viswanath](https://github.com/kasivisu4)
-##### Misha Mody
-##### Poulomi Das
+##### [Misha Mody](https://github.com/Misha-Mody)
+##### [Poulomi Das](https://github.com/dpoulomi)
 
 ## Acknowledgment
 This project is completed for CS 6120 summer course of 2022 taught by Professor Uzair Ahmad
