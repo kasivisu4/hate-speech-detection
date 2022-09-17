@@ -19,8 +19,8 @@ In this project, We have trained the following models based on Davidson and TSA 
 
 
 ## Contributors :
-##### Akhila Sulgante
-##### Kasi Viswanath
+##### [Akhila Sulgante](https://github.com/Akhilasulgante)
+##### [Kasi Viswanath](https://github.com/kasivisu4)
 ##### Misha Mody
 ##### Poulomi Das
 
